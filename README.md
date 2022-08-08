@@ -10,3 +10,5 @@ This is the main source code repository for Cofty. It contains the compiler, sta
 At first, you need
 - `gcc`
 - [`Python >= 3.10`](https://www.python.org/downloads/)
+- 
+> __*The compilation of the code is not ready yet, and the language itself is not finished yet and does not have support for the minimum allowable syntax. Using the project's capabilities at this stage is at your own risk!*__
